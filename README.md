@@ -1,16 +1,26 @@
 # Adventure Game (Java)
 
-This is a text-based adventure game developed in Java.
+## 📌 About
+This is a learning project developed to improve my programming skills.
+It is a text-based adventure game built using Java and object-oriented programming principles.
 
-## Features
-- Different locations (Forest, Cave, River, etc.)
-- Enemy system (Bear, Vampire)
-- Inventory system
-- Battle mechanics
+## 🚀 Features
+- Multiple locations (Forest, Cave, River, etc.)
+- Enemy system (Bear, Vampire, Snake)
+- Inventory and item system
+- Turn-based combat mechanics
+- Player health and damage system
 
-## Technologies
+## 🛠️ Technologies
 - Java
 - Object-Oriented Programming (OOP)
 
-## How to Run
-Compile and run the Main class.
+## ▶️ How to Run
+1. Open the project in an IDE (IntelliJ IDEA / Eclipse)
+2. Run the `Main` class
+
+## 📸 Screenshot
+![Game Screenshot](screenshot.png)
+
+## 🎯 Purpose
+This project was created to practice OOP concepts such as classes, inheritance, and encapsulation.
