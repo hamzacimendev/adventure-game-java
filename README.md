@@ -19,8 +19,5 @@ It is a text-based adventure game built using Java and object-oriented programmi
 1. Open the project in an IDE (IntelliJ IDEA / Eclipse)
 2. Run the `Main` class
 
-## 📸 Screenshot
-![Game Screenshot](screenshot.png)
-
 ## 🎯 Purpose
 This project was created to practice OOP concepts such as classes, inheritance, and encapsulation.
