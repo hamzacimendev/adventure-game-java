@@ -12,7 +12,7 @@ It is a text-based adventure game built using Java and object-oriented programmi
 - Player health and damage system
 
 ## 🛠️ Technologies
-- Java
+- Java 
 - Object-Oriented Programming (OOP)
 
 ## ▶️ How to Run
